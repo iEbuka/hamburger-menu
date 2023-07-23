@@ -1,2 +1,2 @@
 # hamburger-menu
-link- https://iebuka.github.io/hamburger-menu/
+link- https://iebuka.github.io/hamburger-menu/indx.html
